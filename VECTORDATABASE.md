@@ -7,9 +7,9 @@ A **vector database** is a type of database designed to **store, manage, and sea
 ## Examples
  ### “If a bank wants to find users with behavior similar to a known fraud case, traditional databases can’t help.A vector database can compare behavior patterns as vectors and find similar risky customers — even if the data isn’t identical.”
 
- Absolutely! Here's your original example, now modified to clearly mention **which AI tool is used** to convert chunks into vector embeddings:
-
+ 
 ---
+## “It also solve a major problem like Without a vector database, every time I upload a large file and ask a question, the system has to reprocess the entire file through the AI model, which is both slow and expensive.
 
 ### 🔁 **Step-by-Step Flow (with AI tool included)**
 
