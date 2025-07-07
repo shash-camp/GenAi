@@ -4,6 +4,9 @@ The **Transformer** is a **deep learning architecture** introduced by Google in 
 
 It revolutionized **Natural Language Processing (NLP)** and became the foundation for modern **LLMs** like **GPT**, **BERT**, **T5**, and others.
 
+
+🚀 Simple Definition:
+A Transformer is a neural network model designed to handle sequential data (like text) by focusing on the most important parts of the sequence using a mechanism called attention, especially self-attention.
 ---
 
 ### 🔧 Key Concepts of the Transformer Architecture:
