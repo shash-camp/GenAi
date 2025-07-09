@@ -80,4 +80,8 @@ Let’s say the user asks:
 
 ---
 
-Would you like a visual diagram or code-level explanation of RAG with tools like LangChain or OpenAI?
+ 
+In one of our company projects, we built an internal chatbot using RAG (Retrieval-Augmented Generation) to help employees get answers from private HR documents. Instead of training a new model, we stored all our HR policies and manuals in a secure vector database after converting them into embeddings. When someone asked a question like “How many sick leaves do I have?”, the system retrieved the most relevant document chunks and passed them to an LLM, which then generated a clear answer based only on that internal data. This made it easy to search private company knowledge while keeping everything secure and up to date.
+
+
+
