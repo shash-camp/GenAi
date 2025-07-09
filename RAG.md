@@ -81,7 +81,10 @@ Let’s say the user asks:
 ---
 
  
-In one of our company projects, we built an internal chatbot using RAG (Retrieval-Augmented Generation) to help employees get answers from private HR documents. Instead of training a new model, we stored all our HR policies and manuals in a secure vector database after converting them into embeddings. When someone asked a question like “How many sick leaves do I have?”, the system retrieved the most relevant document chunks and passed them to an LLM, which then generated a clear answer based only on that internal data. This made it easy to search private company knowledge while keeping everything secure and up to date.
+✅ Answer: How We Use RAG in Our Company to Handle Private Data
+In our company, we use RAG (Retrieval-Augmented Generation) to build internal tools that can access and answer questions based on private company data like policy documents, reports, and internal manuals — without exposing that data to the public or external APIs.
+
+The key idea is that we don’t retrain the LLM. Instead, we store all private information in a secure vector database and retrieve relevant parts during a user query. This helps us generate accurate answers grounded in our data, while keeping everything private and controlled.
 
 
 
