@@ -33,7 +33,7 @@ Humans communicate using language, but computers understand numbers and structur
   * Example: `"ChatGPT is great!" → ["ChatGPT", "is", "great", "!"]`
 * **Stopword Removal**: Removing common words (like "is", "the", "and") which carry less meaning.
 * **Stemming**: Reducing words to their base/root form (e.g., “playing” → “play”).
-* **Lemmatization**: Like stemming, but uses proper grammar rules (e.g., “better” → “good”).
+* **Lemmatization**: Lemmatization is a process in Natural Language Processing (NLP) that reduces a word to its base or dictionary form — called the lemma — using vocabulary and grammar rules. (e.g., “better” → “good”).
 
 ### 2. **Syntactic Analysis**
 
