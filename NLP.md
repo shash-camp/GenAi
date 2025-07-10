@@ -35,6 +35,9 @@ Humans communicate using language, but computers understand numbers and structur
 * **Stemming**: Reducing words to their base/root form (e.g., “playing” → “play”).
 * **Lemmatization**: Lemmatization is a process in Natural Language Processing (NLP) that reduces a word to its base or dictionary form — called the lemma — using vocabulary and grammar rules. (e.g., “better” → “good”).
 
+✅ Unlike stemming, which chops off word endings without understanding context, lemmatization uses context and part-of-speech (POS) tags to return meaningful base forms.
+
+
 ### 2. **Syntactic Analysis**
 
 * **Part-of-Speech Tagging**: Identifying nouns, verbs, adjectives, etc.
