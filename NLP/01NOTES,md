@@ -1,0 +1,56 @@
+# 🧠 Approaches to NLP (Natural Language Processing) 
+
+**Natural Language Processing (NLP)** is a subfield of **computer science** and **artificial intelligence (AI)** that uses **machine learning** to help computers understand and interact with human language.
+
+## ✅ Benefits of NLP
+
+NLP helps humans talk to computers more easily, using everyday language. This is useful in many areas:
+
+- **Automation of repetitive tasks**
+- **Improved data analysis and insights**
+- **Enhanced search**
+- **Content generation**
+
+---
+
+## 🔍 How NLP Works – Step by Step
+
+NLP uses a mix of **computer science**, **machine learning**, and **deep learning** to understand human language.
+
+At the heart of NLP is **computational linguistics** – using data and logic to study how we speak and write.
+
+### ✨ Two Main Steps in NLP:
+
+1. **Syntactical analysis** – Checks the **grammar** of a sentence. It figures out:
+   - Where the **nouns**, **verbs**, etc. are
+   - How the sentence is built
+
+2. **Semantical analysis** – Tries to understand the **meaning** of the sentence by looking at how the words connect to form useful information.
+
+---
+
+## 🔧 Techniques Used in NLP
+
+To break down and understand sentences, NLP often uses:
+
+- **Dependency parsing**  
+  → Looks at how words are connected (e.g., subject, verb, object)
+
+- **Constituency parsing**  
+  → Builds a **tree diagram** (parse tree) to show the full structure of the sentence
+
+---
+
+## 🌍 Real-World Use Cases
+
+These NLP techniques are used in applications like:
+
+- **Language translation** (e.g., Google Translate)
+- **Speech recognition** (e.g., Siri, Alexa)
+
+The goal is simple:  
+To help **computers and humans** understand each other better using **natural language**.
+
+---
+
+

@@ -1,0 +1,10 @@
+1. <p>THIS is an EXAMPLE of TEXT inside a PARAGRAPH tag.</p>
+2. <div>Hello WORLD! This TEXT contains UPPERCASE and html tags.</div>
+3. <b>IMPORTANT:</b> PLEASE read the INSTRUCTIONS carefully.
+4. <span class="note">NOTE:</span> ALL CAPS ARE USED here to grab attention.
+5. <h1>WELCOME to the MACHINE LEARNING Course</h1>
+6. This is a NORMAL sentence without tags but WITH UPPERCASE WORDS.
+7. <a href="https://example.com">CLICK HERE</a> to VISIT OUR SITE.
+8. <ul><li>FIRST ITEM</li><li>SECOND ITEM</li></ul>
+9. <script>alert('IGNORE THIS SCRIPT');</script> This is ACTUAL CONTENT.
+10. <p>THANK YOU for USING our PLATFORM</p>
